@@ -1,0 +1,15 @@
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Catalogo\obj\Debug\net8.0\Catalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Catalogo\obj\Debug\net8.0\Catalogo.AssemblyInfoInputs.cache
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Catalogo\obj\Debug\net8.0\Catalogo.AssemblyInfo.cs
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Catalogo\obj\Debug\net8.0\Catalogo.csproj.CoreCompileInputs.cache
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Catalogo\obj\Debug\net8.0\Catalogo.sourcelink.json
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Catalogo\bin\Debug\net8.0\Catalogo.exe
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Catalogo\bin\Debug\net8.0\Catalogo.deps.json
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Catalogo\bin\Debug\net8.0\Catalogo.runtimeconfig.json
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Catalogo\bin\Debug\net8.0\Catalogo.dll
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Catalogo\bin\Debug\net8.0\Catalogo.pdb
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Catalogo\obj\Debug\net8.0\Catalogo.dll
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Catalogo\obj\Debug\net8.0\refint\Catalogo.dll
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Catalogo\obj\Debug\net8.0\Catalogo.pdb
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Catalogo\obj\Debug\net8.0\Catalogo.genruntimeconfig.cache
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Catalogo\obj\Debug\net8.0\ref\Catalogo.dll
