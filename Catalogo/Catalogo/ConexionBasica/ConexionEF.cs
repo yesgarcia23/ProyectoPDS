@@ -1,14 +1,15 @@
 using System.Data.SqlClient;
 using System.Data;
 using Microsoft.EntityFrameworkCore;
-using System.Linq.Expressions;
+using Entidades;
+using Repositorios;
 
-namespace Catalogo.Conexion
+namespace Catalogo.ConexionBasica
 {
     public class ConexionEF
     {
         private string stconexion = @"server=DESKTOP-4VE9TSQ\DEV;database=dbCatalogo;Integrated Security=True;TrustServerCertificate = true;";
-        
+
         public void Conexion()
         {
             Console.WriteLine("Conectando a la Base de Datos....\n");
@@ -26,13 +27,13 @@ namespace Catalogo.Conexion
 
             foreach (var prod in lista_Productos)
             {
-                Console.WriteLine(prod.Id.ToString() + " | " + 
-                prod.Nombre + " | " + 
-                prod._Fabricante.Id.ToString() + " | " + 
-                prod.Codigo + " | " + 
-                prod._Categoria.Id.ToString() + " | " + 
-                prod.Precio.ToString() + " | " + 
-                prod.Cantidad.ToString() + " | " + 
+                Console.WriteLine(prod.Id.ToString() + " | " +
+                prod.Nombre + " | " +
+                prod._Fabricante.Id.ToString() + " | " +
+                prod.Codigo + " | " +
+                prod._Categoria.Id.ToString() + " | " +
+                prod.Precio.ToString() + " | " +
+                prod.Cantidad.ToString() + " | " +
                 prod.Costo.ToString());
             }
         }
@@ -42,8 +43,8 @@ namespace Catalogo.Conexion
             var conexion = new Conexion();
             conexion.StringConnection = this.stconexion;
 
-            var fabricante = new Fabricantes {Id = 0, Nombre = "", Contacto = ""};
-            var categoria = new Categorias {Id = 0, Categoria = ""};
+            var fabricante = new Fabricantes { Id = 0, Nombre = "", Contacto = "" };
+            var categoria = new Categorias { Id = 0, Categoria = "" };
             var Producto = new Productos()
             {
                 Id = 0,
@@ -66,15 +67,15 @@ namespace Catalogo.Conexion
             var lista_Publicaciones = conexion.Publicaciones
                 .Include(x => x._Producto)
                 .Include(x => x._Estado)
-                .ToList();            
-            
+                .ToList();
+
             foreach (var pub in lista_Publicaciones)
             {
                 Console.WriteLine(
-                    pub.Id.ToString() + " | " + 
-                    pub.Fecha.ToString() + " | " + 
-                    pub.Descripcion + " | " + 
-                    pub._Producto.Id.ToString() + " | " + 
+                    pub.Id.ToString() + " | " +
+                    pub.Fecha.ToString() + " | " +
+                    pub.Descripcion + " | " +
+                    pub._Producto.Id.ToString() + " | " +
                     pub._Estado.Id.ToString());
             }
         }
@@ -83,8 +84,8 @@ namespace Catalogo.Conexion
         {
             var conexion = new Conexion();
             conexion.StringConnection = this.stconexion;
-            var producto = new Productos {Id = 0, Nombre = "", Codigo = "", Fabricante = 0, Categoria = 0, Precio = 0.0m, Cantidad = 0, Costo = 0.0m};
-            var estado = new Estados {Id = 0, Nombre = ""};
+            var producto = new Productos { Id = 0, Nombre = "", Codigo = "", Fabricante = 0, Categoria = 0, Precio = 0.0m, Cantidad = 0, Costo = 0.0m };
+            var estado = new Estados { Id = 0, Nombre = "" };
             var Publicacion = new Publicaciones()
             {
                 Id = 0,
@@ -98,18 +99,4 @@ namespace Catalogo.Conexion
             conexion.SaveChanges();
         }
     }
-
-    public partial class Conexion : DbContext
-    {
-        public string? StringConnection { get; set; }
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer(this.StringConnection!, p => { });
-            optionsBuilder.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking);
-        }
-
-        public DbSet<Productos>? Productos { get; set; }
-        public DbSet<Publicaciones>? Publicaciones { get; set; }
-    } 
 }

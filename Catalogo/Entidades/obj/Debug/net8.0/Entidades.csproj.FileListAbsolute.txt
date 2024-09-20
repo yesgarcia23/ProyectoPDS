@@ -1,0 +1,5 @@
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\salak401\Downloads\ProyectoPDS\Catalogo\Entidades\obj\Debug\net8.0\Entidades.sourcelink.json

@@ -1,7 +1,8 @@
 using System.Data.SqlClient;
 using System.Data;
+using Entidades;
 
-namespace Catalogo.Conexion
+namespace Catalogo.ConexionBasica
 {
     public class ConexionBD
     {

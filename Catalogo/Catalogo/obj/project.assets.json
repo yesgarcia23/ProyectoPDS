@@ -1592,6 +1592,30 @@
             "rid": "win"
           }
         }
+      },
+      "Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entidades.dll": {}
+        }
+      },
+      "Repositorios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Entidades": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8"
+        },
+        "compile": {
+          "bin/placeholder/Repositorios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositorios.dll": {}
+        }
       }
     }
   },
@@ -4382,33 +4406,45 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Entidades/1.0.0": {
+      "type": "project",
+      "path": "../Entidades/Entidades.csproj",
+      "msbuildProject": "../Entidades/Entidades.csproj"
+    },
+    "Repositorios/1.0.0": {
+      "type": "project",
+      "path": "../Repositorios/Repositorios.csproj",
+      "msbuildProject": "../Repositorios/Repositorios.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Entidades >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.8",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.8",
+      "Repositorios >= 1.0.0",
       "System.Data.SqlClient >= 4.8.6"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\YESID\\.nuget\\packages\\": {},
+    "C:\\Users\\salak401\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YESID\\Documents\\Catalogo\\Catalogo\\Catalogo.csproj",
+      "projectUniqueName": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Catalogo\\Catalogo.csproj",
       "projectName": "Catalogo",
-      "projectPath": "C:\\Users\\YESID\\Documents\\Catalogo\\Catalogo\\Catalogo.csproj",
-      "packagesPath": "C:\\Users\\YESID\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YESID\\Documents\\Catalogo\\Catalogo\\obj\\",
+      "projectPath": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Catalogo\\Catalogo.csproj",
+      "packagesPath": "C:\\Users\\salak401\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Catalogo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\YESID\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\salak401\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4423,7 +4459,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Entidades\\Entidades.csproj"
+            },
+            "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Repositorios\\Repositorios.csproj": {
+              "projectPath": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Repositorios\\Repositorios.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -4472,7 +4515,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

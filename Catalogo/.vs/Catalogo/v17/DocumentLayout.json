@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF18A34-F135-4146-AA3F-052305B9B246}|Entidades\\Entidades.csproj|c:\\users\\salak401\\downloads\\proyectopds\\catalogo\\entidades\\entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DF18A34-F135-4146-AA3F-052305B9B246}|Entidades\\Entidades.csproj|solutionrelative:entidades\\entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED9CD8D-764E-43E3-A163-98C033487EF1}|PruebaUnitaria\\PruebaUnitaria.csproj|c:\\users\\salak401\\downloads\\proyectopds\\catalogo\\pruebaunitaria\\pruebaunitaria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EED9CD8D-764E-43E3-A163-98C033487EF1}|PruebaUnitaria\\PruebaUnitaria.csproj|solutionrelative:pruebaunitaria\\pruebaunitaria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673A1F3-A8AF-4265-AAE7-A278ECEE5471}|Repositorios\\Repositorios.csproj|c:\\users\\salak401\\downloads\\proyectopds\\catalogo\\repositorios\\repositorios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D673A1F3-A8AF-4265-AAE7-A278ECEE5471}|Repositorios\\Repositorios.csproj|solutionrelative:repositorios\\repositorios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED9CD8D-764E-43E3-A163-98C033487EF1}|PruebaUnitaria\\PruebaUnitaria.csproj|c:\\users\\salak401\\downloads\\proyectopds\\catalogo\\pruebaunitaria\\repositorios\\configuracionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED9CD8D-764E-43E3-A163-98C033487EF1}|PruebaUnitaria\\PruebaUnitaria.csproj|solutionrelative:pruebaunitaria\\repositorios\\configuracionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED9CD8D-764E-43E3-A163-98C033487EF1}|PruebaUnitaria\\PruebaUnitaria.csproj|c:\\users\\salak401\\downloads\\proyectopds\\catalogo\\pruebaunitaria\\nucleo\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED9CD8D-764E-43E3-A163-98C033487EF1}|PruebaUnitaria\\PruebaUnitaria.csproj|solutionrelative:pruebaunitaria\\nucleo\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF18A34-F135-4146-AA3F-052305B9B246}|Entidades\\Entidades.csproj|c:\\users\\salak401\\downloads\\proyectopds\\catalogo\\entidades\\modelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF18A34-F135-4146-AA3F-052305B9B246}|Entidades\\Entidades.csproj|solutionrelative:entidades\\modelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D0AF0B-3AD2-4E3C-8D47-326CBEC616D2}|Catalogo\\Catalogo.csproj|c:\\users\\salak401\\downloads\\proyectopds\\catalogo\\catalogo\\clases\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D0AF0B-3AD2-4E3C-8D47-326CBEC616D2}|Catalogo\\Catalogo.csproj|solutionrelative:catalogo\\clases\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D0AF0B-3AD2-4E3C-8D47-326CBEC616D2}|Catalogo\\Catalogo.csproj|c:\\users\\salak401\\downloads\\proyectopds\\catalogo\\catalogo\\catalogo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70D0AF0B-3AD2-4E3C-8D47-326CBEC616D2}|Catalogo\\Catalogo.csproj|solutionrelative:catalogo\\catalogo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D0AF0B-3AD2-4E3C-8D47-326CBEC616D2}|Catalogo\\Catalogo.csproj|c:\\users\\salak401\\downloads\\proyectopds\\catalogo\\catalogo\\conexionbasica\\conexionef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D0AF0B-3AD2-4E3C-8D47-326CBEC616D2}|Catalogo\\Catalogo.csproj|solutionrelative:catalogo\\conexionbasica\\conexionef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D0AF0B-3AD2-4E3C-8D47-326CBEC616D2}|Catalogo\\Catalogo.csproj|c:\\users\\salak401\\downloads\\proyectopds\\catalogo\\catalogo\\conexionbasica\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D0AF0B-3AD2-4E3C-8D47-326CBEC616D2}|Catalogo\\Catalogo.csproj|solutionrelative:catalogo\\conexionbasica\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED9CD8D-764E-43E3-A163-98C033487EF1}|PruebaUnitaria\\PruebaUnitaria.csproj|c:\\users\\salak401\\downloads\\proyectopds\\catalogo\\pruebaunitaria\\repositorios\\entidadeshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED9CD8D-764E-43E3-A163-98C033487EF1}|PruebaUnitaria\\PruebaUnitaria.csproj|solutionrelative:pruebaunitaria\\repositorios\\entidadeshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673A1F3-A8AF-4265-AAE7-A278ECEE5471}|Repositorios\\Repositorios.csproj|c:\\users\\salak401\\downloads\\proyectopds\\catalogo\\repositorios\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673A1F3-A8AF-4265-AAE7-A278ECEE5471}|Repositorios\\Repositorios.csproj|solutionrelative:repositorios\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673A1F3-A8AF-4265-AAE7-A278ECEE5471}|Repositorios\\Repositorios.csproj|c:\\users\\salak401\\downloads\\proyectopds\\catalogo\\repositorios\\implementaciones\\fabricantesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673A1F3-A8AF-4265-AAE7-A278ECEE5471}|Repositorios\\Repositorios.csproj|solutionrelative:repositorios\\implementaciones\\fabricantesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Entidades",
+              "DocumentMoniker": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Entidades\\Entidades.csproj",
+              "RelativeDocumentMoniker": "Entidades\\Entidades.csproj",
+              "ToolTip": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Entidades\\Entidades.csproj",
+              "RelativeToolTip": "Entidades\\Entidades.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T16:10:32.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PruebaUnitaria",
+              "DocumentMoniker": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\PruebaUnitaria\\PruebaUnitaria.csproj",
+              "RelativeDocumentMoniker": "PruebaUnitaria\\PruebaUnitaria.csproj",
+              "ToolTip": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\PruebaUnitaria\\PruebaUnitaria.csproj",
+              "RelativeToolTip": "PruebaUnitaria\\PruebaUnitaria.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T16:10:02.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repositorios",
+              "DocumentMoniker": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Repositorios\\Repositorios.csproj",
+              "RelativeDocumentMoniker": "Repositorios\\Repositorios.csproj",
+              "ToolTip": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Repositorios\\Repositorios.csproj",
+              "RelativeToolTip": "Repositorios\\Repositorios.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T16:09:32.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConexionEF.cs",
+              "DocumentMoniker": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Catalogo\\ConexionBasica\\ConexionEF.cs",
+              "RelativeDocumentMoniker": "Catalogo\\ConexionBasica\\ConexionEF.cs",
+              "ToolTip": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Catalogo\\ConexionBasica\\ConexionEF.cs",
+              "RelativeToolTip": "Catalogo\\ConexionBasica\\ConexionEF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T16:02:00.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Catalogo\\ConexionBasica\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "Catalogo\\ConexionBasica\\ConexionBD.cs",
+              "ToolTip": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Catalogo\\ConexionBasica\\ConexionBD.cs",
+              "RelativeToolTip": "Catalogo\\ConexionBasica\\ConexionBD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T16:01:57.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Catalogo\\Clases\\Principal.cs",
+              "RelativeDocumentMoniker": "Catalogo\\Clases\\Principal.cs",
+              "ToolTip": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Catalogo\\Clases\\Principal.cs",
+              "RelativeToolTip": "Catalogo\\Clases\\Principal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:57:27.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Modelos.cs",
+              "DocumentMoniker": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Entidades\\Modelos.cs",
+              "RelativeDocumentMoniker": "Entidades\\Modelos.cs",
+              "ToolTip": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Entidades\\Modelos.cs",
+              "RelativeToolTip": "Entidades\\Modelos.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA2wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:53:43.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntidadesHelper.cs",
+              "DocumentMoniker": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\PruebaUnitaria\\Repositorios\\EntidadesHelper.cs",
+              "RelativeDocumentMoniker": "PruebaUnitaria\\Repositorios\\EntidadesHelper.cs",
+              "ToolTip": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\PruebaUnitaria\\Repositorios\\EntidadesHelper.cs",
+              "RelativeToolTip": "PruebaUnitaria\\Repositorios\\EntidadesHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:52:14.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfiguracionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\PruebaUnitaria\\Repositorios\\ConfiguracionHelper.cs",
+              "RelativeDocumentMoniker": "PruebaUnitaria\\Repositorios\\ConfiguracionHelper.cs",
+              "ToolTip": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\PruebaUnitaria\\Repositorios\\ConfiguracionHelper.cs",
+              "RelativeToolTip": "PruebaUnitaria\\Repositorios\\ConfiguracionHelper.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvxwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:51:58.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\PruebaUnitaria\\Nucleo\\Usings.cs",
+              "RelativeDocumentMoniker": "PruebaUnitaria\\Nucleo\\Usings.cs",
+              "ToolTip": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\PruebaUnitaria\\Nucleo\\Usings.cs",
+              "RelativeToolTip": "PruebaUnitaria\\Nucleo\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:51:28.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Catalogo",
+              "DocumentMoniker": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Catalogo\\Catalogo.csproj",
+              "RelativeDocumentMoniker": "Catalogo\\Catalogo.csproj",
+              "ToolTip": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Catalogo\\Catalogo.csproj",
+              "RelativeToolTip": "Catalogo\\Catalogo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T15:47:19.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Repositorios\\Conexion.cs",
+              "RelativeDocumentMoniker": "Repositorios\\Conexion.cs",
+              "ToolTip": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Repositorios\\Conexion.cs",
+              "RelativeToolTip": "Repositorios\\Conexion.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:37:43.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FabricantesRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Repositorios\\Implementaciones\\FabricantesRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\Implementaciones\\FabricantesRepositorio.cs",
+              "ToolTip": "C:\\Users\\salak401\\Downloads\\ProyectoPDS\\Catalogo\\Repositorios\\Implementaciones\\FabricantesRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\Implementaciones\\FabricantesRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:29:14.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

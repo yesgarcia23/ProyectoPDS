@@ -1,9 +1,7 @@
-using System.Data.SqlClient;
-using System.Data;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Catalogo.Conexion
+namespace Entidades
 {
     public class Estados
     {
